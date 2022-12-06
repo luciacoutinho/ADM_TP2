@@ -1,7 +1,7 @@
 <template>
   <div>
     <section id="home">
-    <h2>¡Elige tu propia aventura! <br><span class="light font-small">Mini_cuentos en donde vos sos el protagonista</span></h2>
+    <h2>¡Elige tu propia aventura! <br><span class="light font-small">Historias en donde vos sos el protagonista</span></h2>
     <div>
       <img src="../assets/chica_leyendo_libros.png" alt="Chica leyendo libros">
     </div>
